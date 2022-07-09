@@ -1,0 +1,5 @@
+export const authConst = {
+  AUTH_ERROR: "AUTH_ERROR",
+  SIGNUP_SUCCESS: "SIGNUP_SUCCESS",
+  SIGNIN_SUCCESS: "SIGNIN_SUCCESS",
+};
